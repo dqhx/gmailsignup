@@ -1,7 +1,7 @@
 # Gmail sign up
 Google Mail or Gmail is the biggest email service provider in the world. Most of us only use Gmail rather than using yahoo mails or any other email service. Gmail is the best in the world because of its many great features. One of the most powerful reason is that all android smartphones runs on Gmail account. It is the free email service for all. And its User-Interface is very great. It attracts more and more peoples to join its gmail service because of its friendly nature.
 
-Today in this post i will teach you [How to create a Gmail account](https://gmailcom.email/gmail-sign-up) in a very easy way. You can follow some simple steps given below. We will teach in very simple way that can help you to access it online by gmail sign in method and  by [Gmail login method](https://gmailcom.email). Just follow the simple steps. Checkout the below article.
+Today in this post i will teach you [How to create a Gmail account](https://scalar.usc.edu/anvc/gmail/gmail-sign-up.html) in a very easy way. You can follow some simple steps given below. We will teach in very simple way that can help you to access it online by gmail sign in method and  by [Gmail login help](https://scalar.usc.edu/anvc/gmail/gmail-login.html). Just follow the simple steps. Checkout the below article.
 
 ## How To Create a Gmail Account?
 You have to follow to make an electronic mail account the world's most popular email account service provider 'Gmail'. You need some things to sign in to Gmail. You need an Internet connection and a PC, smartphone will also work.
